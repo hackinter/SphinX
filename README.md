@@ -1,4 +1,3 @@
-```markdown
 # Sphinx
 
 ███████╗██████╗ ██╗  ██╗██╗███╗   ██╗██╗  ██╗  
@@ -83,9 +82,8 @@ We welcome contributions! Feel free to open issues or submit pull requests for n
 
 **HACKINTER**
 
-Email: [ceh.ec.counselor147@gmail.com](mailto:ceh.ec.counselor147@gmail.com)
+
 
 ## Disclaimer
 
 This tool is for educational purposes only. The author is not responsible for any illegal misuse of this tool.
-```
