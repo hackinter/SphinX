@@ -1,12 +1,5 @@
 # Sphinx
 
-███████╗██████╗ ██╗  ██╗██╗███╗   ██╗██╗  ██╗                                                                             
-██╔════╝██╔══██╗██║  ██║██║████╗  ██║╚██╗██╔╝                                                                                           
-███████╗██████╔╝███████║██║██╔██╗ ██║ ╚███╔╝                                                                                                                                                          
-╚════██║██╔═══╝ ██╔══██║██║██║╚██╗██║ ██╔██╗                                                     
-███████║██║     ██║  ██║██║██║ ╚████║██╔╝ ██╗                                                                    
-╚══════╝╚═╝     ╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝
-
 ## Overview
 
 **Sphinx** is an advanced HTTP parameter discovery tool designed for security assessments. It helps penetration testers and security researchers discover hidden HTTP parameters in web applications. This tool is particularly useful for bug bounty hunters who want to discover undocumented or hidden parameters that may be vulnerable.
